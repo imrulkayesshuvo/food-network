@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+section span{
+    color:tomato;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+    margin-top: 50px;
+}
+.half-width img{
+    width: 100%;
+    max-height: 550px;
+}
+.button{
+    text-decoration: none;
+    border-radius: 30px;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    color:white;
+    font-weight: 700;
+    padding: 10px 30px;
+    box-shadow: 5px 5px 30px pink;
+
+}
+.about-me{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
